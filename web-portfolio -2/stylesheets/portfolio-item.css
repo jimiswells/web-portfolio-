@@ -1,0 +1,37 @@
+.intro.afrobeach {
+  background-image: url(../images/afrobeach/arrow.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  margin-bottom: 70px; }
+
+.intro.illmind {
+  background-image: url(../images/illmind/gameover.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 0;
+  margin-bottom: 70px; }
+
+.project-details {
+  width: 300px;
+  height: 400px;
+  background-color: whitesmoke;
+  position: fixed;
+  right: 0;
+  top: 200px;
+  margin-top: 50px;
+  z-index: -1; }
+
+.project.contact {
+  background-color: whitesmoke;
+  z-index: 1; }
+
+.wrapper {
+  width: 90%;
+  margin: 50px auto;
+  background-color: whitesmoke; }
+
+.project-intro a {
+  font-size: 3.5em;
+  font-family: "Roboto", sans-serif;
+  color: red; }
